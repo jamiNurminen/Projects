@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "55/YMbYpcOu+dGPQJTfcamrjK7zlQ+8vOqxscHroannX1apl93iqPBcAnTQNK2LBxt7Mvm3Qs7yuWtTPnJisjw==",
+  "success": true,
+  "projectFilePath": "/Users/jaminurminen/kortepohja-combat/ht/HarjoitusTyö1.csproj",
+  "expectedPackageFiles": [
+    "/Users/jaminurminen/.nuget/packages/jypeli.core/9.1.0/jypeli.core.9.1.0.nupkg.sha512",
+    "/Users/jaminurminen/.nuget/packages/jypeli.physics2d.core/1.5.1/jypeli.physics2d.core.1.5.1.nupkg.sha512",
+    "/Users/jaminurminen/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/jaminurminen/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/Users/jaminurminen/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

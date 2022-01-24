@@ -1,1 +1,3 @@
-# Projects
+Ohjelmointiprojektit
+
+Tekijä: Jami Nurminen

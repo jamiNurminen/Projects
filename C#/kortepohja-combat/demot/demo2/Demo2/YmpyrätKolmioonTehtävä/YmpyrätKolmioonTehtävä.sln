@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ympyrätKolmioon", "ympyrätKolmioon\ympyrätKolmioon.csproj", "{A5349A69-5F48-4075-8E14-49ED18619ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5349A69-5F48-4075-8E14-49ED18619ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5349A69-5F48-4075-8E14-49ED18619ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5349A69-5F48-4075-8E14-49ED18619ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5349A69-5F48-4075-8E14-49ED18619ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

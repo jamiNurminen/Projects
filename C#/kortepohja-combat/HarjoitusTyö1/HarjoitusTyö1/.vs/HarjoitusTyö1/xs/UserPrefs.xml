@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CBDC2264-CE27-4CB0-8ECC-3D0C97937964}|Default">
+  <MonoDevelop.Ide.ItemProperties.HarjoitusTyö1 PreferredExecutionTarget="netcoreapp3.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ohjelma.cs">
+    <Files>
+      <File FileName="Ohjelma.cs" Line="56" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HarjoitusTyö1" expanded="True">
+            <Node name="HarjoitusTyö1" expanded="True">
+              <Node name="Ohjelma.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
