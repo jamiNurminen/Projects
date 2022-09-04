@@ -7,7 +7,6 @@ const Home = ({ socket }) => {
     const [userName, setUserName] = useState('')
     const [password, setPassword] = useState('')
 
-    //* Tähän funktioon jäätiin, ei ole testattu //*
     const handleLogin = async (e) => {
         e.preventDefault()
 
@@ -31,7 +30,7 @@ const Home = ({ socket }) => {
     return (
         <>
             <form className="home__container" onSubmit={handleLogin}>
-                <h2 className="home__header">MitäsÄij - Keskustelualusta</h2>
+                <h2 className="home__header">Chattinen - Keskustelualusta</h2>
                 <label htmlFor="username">Käyttäjänimi</label>
                 <input
                     type="text"
@@ -50,11 +49,11 @@ const Home = ({ socket }) => {
                     className="username__input"
                     onChange={(pass) => setPassword(pass.target.value)}
                 />
-                <button className="home__cta">Log In</button>
+                <button className="home__cta">Kirjaudu sisään</button>
             </form>
             <div className="sign__container">
-                <button className="sign__cta" onClick={() => {navigate('/signIn')}}>Sign In</button>
-                <button className="forgot__btn" onClick={() => {alert('Ei kannattais unohdella salasanoja :)')}}>Forgot password? </button>
+                <button className="sign__cta" onClick={() => {navigate('/signIn')}}>Luo Käyttäjä</button>
+                <button className="forgot__btn" onClick={() => {alert('Ei kannattais unohdella salasanoja :)')}}>Unohtuiko salasana? </button>
             </div>
         </>
     )

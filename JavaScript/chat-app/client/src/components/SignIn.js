@@ -79,7 +79,7 @@ const SignIn = (socket) => {
             </form>
             <div className="sign__container">
                 <button className="home__cta" onClick={handleSubmit}>Luo tunnus</button>
-                <button className="cancel__cta" onClick={() => {navigate('/')}}>Cancel </button>
+                <button className="cancel__cta" onClick={() => {navigate('/')}}>Peruuta </button>
             </div>
         </>
     )
