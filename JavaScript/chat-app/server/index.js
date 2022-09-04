@@ -13,7 +13,7 @@ let users = []
 
 const socketIO = require('socket.io')(http, {
     cors: {
-        origin: "http://localhost:3000"
+        origin: "/"
     }
 })
 
@@ -49,6 +49,7 @@ socketIO.on('connection', (socket) => {
     socket.on('typing', (data) => socket.broadcast.emit('typingReponse', data))
 })
 
+app.use(express.static('build'))
 app.use(express.json())
 app.use(cors())
 app.use('/users', usersRouter)
