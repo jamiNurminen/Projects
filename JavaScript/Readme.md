@@ -1,1 +1,1 @@
-Chat-sovellus toimii osoitteessa: https://arcane-everglades-95313.herokuapp.com/
+Chat-sovellus toimii osoitteessa: https://frozen-inlet-37592.herokuapp.com/
