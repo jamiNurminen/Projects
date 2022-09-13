@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import checkPageStatus from '../utils/functions'
 
 const ChatFooter = ({ socket }) => {
     const [message, setMessage] = useState('')
@@ -19,7 +18,7 @@ const ChatFooter = ({ socket }) => {
             socketID: socket.id,
           })
 
-        checkPageStatus(message, localStorage.getItem('userName'))
+        //checkPageStatus(message, localStorage.getItem('userName'))
         }
         setMessage('');
       }

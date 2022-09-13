@@ -14,7 +14,7 @@ const ChatBody = ({ messages, lastMessageRef, typingStatus }) => {
             <header className="chat__mainHeader">
                 <p>Keskustele muiden kanssa!</p>
                 <button className="leaveChat__btn" onClick={handleLeaveChat}>
-                    Poistu Keskustelustalta
+                    Poistu
                 </button>
             </header>
 
